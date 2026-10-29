@@ -1,0 +1,78 @@
+{
+  "team": "중국",
+  "date": "2026-09-26",
+  "batters": [
+    {
+      "order": 1,
+      "name": "저우이",
+      "position": "우",
+      "season_avg": "0.750",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 2,
+      "name": "왕레이",
+      "position": "二",
+      "season_avg": "0.250",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 3,
+      "name": "한샤오",
+      "position": "중",
+      "season_avg": "0.250",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 4,
+      "name": "롼천천",
+      "position": "지",
+      "season_avg": "0.250",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 5,
+      "name": "차오졔",
+      "position": "一",
+      "season_avg": "0.333",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 6,
+      "name": "푸원롱",
+      "position": "좌",
+      "season_avg": "0.667",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 7,
+      "name": "리샤오양",
+      "position": "三",
+      "season_avg": "0.000",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 8,
+      "name": "징후이",
+      "position": "포",
+      "season_avg": "0.000",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 9,
+      "name": "리옌언",
+      "position": "유",
+      "season_avg": "0.000",
+      "season_hr": null,
+      "season_rbi": null
+    }
+  ]
+}

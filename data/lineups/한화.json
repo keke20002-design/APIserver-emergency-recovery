@@ -1,0 +1,78 @@
+{
+  "team": "한화",
+  "date": "2026-10-10",
+  "batters": [
+    {
+      "order": 1,
+      "name": "최인호",
+      "position": "중",
+      "season_avg": "0.325",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 2,
+      "name": "이도윤",
+      "position": "二",
+      "season_avg": "0.263",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 3,
+      "name": "문현빈",
+      "position": "좌",
+      "season_avg": "0.297",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 4,
+      "name": "강백호",
+      "position": "지",
+      "season_avg": "0.285",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 5,
+      "name": "노시환",
+      "position": "三",
+      "season_avg": "0.283",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 6,
+      "name": "페라자",
+      "position": "우",
+      "season_avg": "0.289",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 7,
+      "name": "김태연",
+      "position": "一",
+      "season_avg": "0.269",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 8,
+      "name": "최재훈",
+      "position": "포",
+      "season_avg": "0.170",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 9,
+      "name": "심우준",
+      "position": "유",
+      "season_avg": "0.264",
+      "season_hr": null,
+      "season_rbi": null
+    }
+  ]
+}

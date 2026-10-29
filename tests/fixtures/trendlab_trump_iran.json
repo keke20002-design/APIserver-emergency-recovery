@@ -1,0 +1,324 @@
+{
+ "_comment": "TrendLab '트럼프 대이란 대응' 실제 생성 fixture. 입력(source_items/analysis)은 고정, before/after는 수정 전/후 generator가 같은 입력으로 실제 Gemini에서 생성한 결과(하단 출처 박스 제외).",
+ "topic": "트럼프 대이란 대응",
+ "category": "정치",
+ "source_items": [
+  {
+   "source": "naver",
+   "title": "트럼프 &quot;대이란 대응 결정 중…이란 대통령 만나는데 열려있다&quot;",
+   "description": "트럼프 미국 대통령이 이란에 대한 대응을 결정 중이라고 밝혔습니다. 폭스 뉴스는 현지시간 20일 트럼프 대통령과 통화했다며 &quot;트럼프 대통령은 '결정 모드'이고, 아주 큰 일이 머지않은 미래에 일어날 것이라고 말했다&quot;고...",
+   "published_at": "2026-09-20T23:08:00+00:00",
+   "publisher": "",
+   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1538145",
+   "relevance_score": 92,
+   "relevance_reason": "제목에 topic 단어 전부(트럼프, 대이란, 대응) 등장",
+   "directly_supports_topic": true
+  },
+  {
+   "source": "naver",
+   "title": "트럼프 &quot;대이란 대응 결정중…이란 대통령 만나는데 열려있다&quot;",
+   "description": "사진=연합뉴스 매일일보 = 이상래 기자  |  도널드 트럼프 미국 대통령은 이란에 대한 대응을 결정 중이며 마수드 페제시키안 이란 대통령과 유엔총회에서 만나는 데도 열려있다는 입장을 보였다. 연합뉴스에 따르면 트레이...",
+   "published_at": "2026-09-20T23:04:00+00:00",
+   "publisher": "",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=1416427",
+   "relevance_score": 92,
+   "relevance_reason": "제목에 topic 단어 전부(트럼프, 대이란, 대응) 등장",
+   "directly_supports_topic": true
+  },
+  {
+   "source": "naver",
+   "title": "트럼프 “이란 대응 ‘결정 단계’…곧 큰 일 일어날 것”",
+   "description": "도널드 트럼프 미국 대통령이 이란에 대한 대응 방안을 결정하는 단계에 있다며 대규모 공격 가능성을 다시... 단순히 미국의 대이란 해상 봉쇄 문제만 있는 것이 아니라, 후티가 어제(19일) 사우디아라비아를...",
+   "published_at": "2026-09-20T22:56:00+00:00",
+   "publisher": "",
+   "url": "https://www.segye.com/newsView/20260921502214?OutUrl=naver",
+   "relevance_score": 78,
+   "relevance_reason": "제목에 핵심 단어 대부분(트럼프, 대응) 등장",
+   "directly_supports_topic": true
+  },
+  {
+   "source": "youtube_channel",
+   "title": "트럼프 \"대이란 대응, 곧 결정\"‥미·이란 정상회담? - [LIVE] MBC 뉴스투데이 2026년 09월 21일",
+   "description": "북한, 탄도미사일 2발 발사‥미 \"즉각 위협 아냐\" / 남자 농구, 12년 만에 정상‥근대 5종·테크볼 금메달 / 야구, 대만과 1차전‥수영, 본격 메달 사냥 돌입\n\n\"뉴스가 보입니다\"\n\n함께 분노하고, 함께 감시하고, 함께 연대하고, 함께 응원합니다. \n\nMBC뉴스데스크는 매일 저녁 7시 40분부터 저녁 9시까지 70분 동안 진행됩니다.\n\n[평일]\n00시 전후 MBC 뉴스25\n05시 58분 MBC 뉴스투데이 1부\n06시 25분 MBC 뉴스투데이 2부\n09시 35분 MBC 930뉴스\n12시 00분 MBC 12뉴스 \n13시 50분 M",
+   "published_at": "2026-09-20T22:51:37+00:00",
+   "publisher": "",
+   "url": "https://www.youtube.com/watch?v=q2xPeQ7KPWA",
+   "relevance_score": 92,
+   "relevance_reason": "제목에 topic 단어 전부(트럼프, 대이란, 대응) 등장",
+   "directly_supports_topic": true
+  },
+  {
+   "source": "naver",
+   "title": "[미국 이란 전쟁] 트럼프 '대이란 결단' 예고…이란군 &quot;미군기지 공격&quot;",
+   "description": "도널드 트럼프 미국 대통령이 대이란 대응을 놓고 &quot;결정 모드&quot;에 들어갔다며 대규모 공격과 경제 압박, 합의를 모두 선택지로 제시했다. 동시에 마수드 페제시키안 이란 대통령과 유엔총회에서 만날 가능성도 열어뒀다....",
+   "published_at": "2026-09-20T22:48:00+00:00",
+   "publisher": "",
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16203293",
+   "relevance_score": 78,
+   "relevance_reason": "제목에 핵심 단어 대부분(트럼프, 대이란) 등장",
+   "directly_supports_topic": true
+  },
+  {
+   "source": "youtube_channel",
+   "title": "트럼프 \"대이란 대응 결정 중\"..이란 대통령 만나나? / SBS 모닝와이드 2부",
+   "description": "〈앵커〉\n\n트럼프 미국 대통령이 이란 전쟁에 대해 곧 아주 큰 일이 일어날 것이라고 말했습니다. 트럼프는 이란 대통령과 회담할 수 있다고 가능성도 열어뒀습니다.\n\n뉴욕 김현우 특파원의 보도입니다.\n\n〈기자〉\n\n트럼프 대통령이 현지 시간 20일 폭스뉴스 기자와 전화 통화에서 이란을 향한 대응을 결정하는 과정에 있다고 말했습니다.\n\n트럼프 대통령은 이란을 쓸어버리는 것과 경제적으로 고사시키는 것, 그리고 합의에 이르는 것을 가능한 선택지로 제시했다며 그들은 처신을 잘해야 할 것이라고 덧붙였다고 폭스뉴스는 전했습니다.\n\n트럼프는 이번 주",
+   "published_at": "2026-09-20T22:40:41+00:00",
+   "publisher": "",
+   "url": "https://www.youtube.com/watch?v=_3KWvehnAZ0",
+   "relevance_score": 92,
+   "relevance_reason": "제목에 topic 단어 전부(트럼프, 대이란, 대응) 등장",
+   "directly_supports_topic": true
+  },
+  {
+   "source": "naver",
+   "title": "트럼프 &quot;대이란 대응 결정 중&quot;…정상회담 가능성 열어",
+   "description": "도널드 트럼프 미국 대통령은 이란에 대한 대응을 결정 중이며 마수드 페제시키안 이란 대통령과... 군사공격부터 합의까지…대이란 선택지 검토 잉스트 기자는 &quot;트럼프 대통령은 현재 가능한 선택지와 관련해 이란을...",
+   "published_at": "2026-09-20T22:08:00+00:00",
+   "publisher": "",
+   "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000067361",
+   "relevance_score": 92,
+   "relevance_reason": "제목에 topic 단어 전부(트럼프, 대이란, 대응) 등장",
+   "directly_supports_topic": true
+  },
+  {
+   "source": "youtube_channel",
+   "title": "후티 공격에 사우디 혼란 속출…트럼프 “대이란 대응 결정중” / KBS  2026.09.21.",
+   "description": "[앵커]\n\n 이란의 지원을 받는 예멘 후티 반군과  사우디 연합군간 무력 충돌이 격화하고 있습니다.\n\n 트럼프 미국 대통령은  이란에 대한 대응을 놓고 결정 중인 것으로 전해졌는데 유엔 총회에서 이란 대통령와 만날 가능성에 관심이 쏠립니다.\n\n 베를린 송영석 특파원입니다.\n\n [리포트]\n\n 지난 주말 친이란 예멘 후티 반군은 사우디 국영 석유기업 아람코의  연료탱크를 타격했습니다.\n\n 인근 킹 칼리드 공항 항공편들도  결항되거나 장시간 지연됐습니다.\n\n 사우디 수도 리야드에도 처음으로 공습경보가 발령됐습니다.\n\n [야히야 사리/후티",
+   "published_at": "2026-09-20T21:19:14+00:00",
+   "publisher": "",
+   "url": "https://www.youtube.com/watch?v=28-UkDM1d3k",
+   "relevance_score": 92,
+   "relevance_reason": "제목에 topic 단어 전부(트럼프, 대이란, 대응) 등장",
+   "directly_supports_topic": true
+  }
+ ],
+ "analysis": {
+  "facts": [
+   {
+    "fact": "도널드 트럼프 미국 대통령이 이란에 대한 대응을 결정 중이라고 밝혔다.",
+    "importance": 95,
+    "source_id": "1"
+   },
+   {
+    "fact": "트럼프 대통령은 폭스 뉴스와의 통화에서 '결정 모드'에 있으며, 아주 큰 일이 머지않은 미래에 일어날 것이라고 말했다.",
+    "importance": 90,
+    "source_id": "1"
+   },
+   {
+    "fact": "트럼프 대통령은 마수드 페제시키안 이란 대통령과 유엔총회에서 만나는 데 열려있다는 입장을 보였다.",
+    "importance": 90,
+    "source_id": "2"
+   },
+   {
+    "fact": "트럼프 대통령은 대규모 공격, 경제 압박, 합의를 모두 대이란 대응 선택지로 제시했다.",
+    "importance": 85,
+    "source_id": "5"
+   },
+   {
+    "fact": "트럼프 대통령은 이란을 쓸어버리는 것, 경제적으로 고사시키는 것, 그리고 합의에 이르는 것을 가능한 선택지로 제시했다.",
+    "importance": 85,
+    "source_id": "6"
+   },
+   {
+    "fact": "친이란 예멘 후티 반군이 지난 주말 사우디 국영 석유기업 아람코의 연료탱크를 타격했다.",
+    "importance": 80,
+    "source_id": "8"
+   },
+   {
+    "fact": "후티 반군의 공격으로 인근 킹 칼리드 공항 항공편들이 결항되거나 장시간 지연됐다.",
+    "importance": 75,
+    "source_id": "8"
+   },
+   {
+    "fact": "사우디 수도 리야드에도 처음으로 공습경보가 발령됐다.",
+    "importance": 75,
+    "source_id": "8"
+   },
+   {
+    "fact": "트럼프 대통령은 이란이 처신을 잘해야 할 것이라고 덧붙였다.",
+    "importance": 70,
+    "source_id": "6"
+   }
+  ],
+  "statements": [
+   {
+    "speaker": "도널드 트럼프 미국 대통령",
+    "type": "보도",
+    "content": "이란에 대한 대응을 결정 중이다.",
+    "date": "2026-09-20"
+   },
+   {
+    "speaker": "도널드 트럼프 미국 대통령",
+    "type": "보도",
+    "content": "'결정 모드'에 있으며, 아주 큰 일이 머지않은 미래에 일어날 것이다.",
+    "date": "2026-09-20"
+   },
+   {
+    "speaker": "도널드 트럼프 미국 대통령",
+    "type": "보도",
+    "content": "마수드 페제시키안 이란 대통령과 유엔총회에서 만나는 데도 열려있다.",
+    "date": "2026-09-20"
+   },
+   {
+    "speaker": "폭스 뉴스",
+    "type": "보도",
+    "content": "트럼프 대통령과 통화했다.",
+    "date": "2026-09-20"
+   },
+   {
+    "speaker": "트레이 잉스트 기자",
+    "type": "보도",
+    "content": "트럼프 대통령은 현재 가능한 선택지와 관련해 이란을 쓸어버리는 것과 경제적으로 고사시키는 것, 그리고 합의에 이르는 것을 가능한 선택지로 제시했다.",
+    "date": "2026-09-20"
+   },
+   {
+    "speaker": "트레이 잉스트 기자",
+    "type": "보도",
+    "content": "트럼프 대통령은 이란이 처신을 잘해야 할 것이라고 덧붙였다.",
+    "date": "2026-09-20"
+   },
+   {
+    "speaker": "야히야 사리/후티 반군 대변인",
+    "type": "보도",
+    "content": "지난 주말 친이란 예멘 후티 반군은 사우디 국영 석유기업 아람코의 연료탱크를 타격했다.",
+    "date": "2026-09-20"
+   }
+  ],
+  "unconfirmed": [
+   "트럼프 대통령이 언급한 '아주 큰 일'이 구체적으로 무엇을 의미하는가?",
+   "미국과 이란 정상회담이 실제로 성사될 것인가?"
+  ],
+  "sides": [],
+  "controversy_core": "도널드 트럼프 미국 대통령이 이란에 대한 대응 방안을 결정하는 단계에 있으며, 군사 공격, 경제 압박, 합의 등 모든 선택지를 고려하고 있다고 밝힌 가운데, 이란 대통령과의 정상회담 가능성도 열어두어 향후 미-이란 관계의 불확실성이 커지고 있다.",
+  "why_trending": "도널드 트럼프 미국 대통령이 이란에 대한 대응을 결정 중이며 '곧 큰 일'이 일어날 것이라고 언급했고, 동시에 이란 대통령과의 정상회담 가능성까지 열어두면서 미-이란 관계의 향방에 대한 관심이 집중되고 있기 때문이다. 또한, 친이란 예멘 후티 반군의 사우디 공격으로 중동 지역의 긴장이 고조되고 있는 상황도 영향을 미치고 있다.",
+  "current_reaction": "",
+  "qa": [
+   {
+    "question": "트럼프 대통령이 이란에 대한 대응을 결정 중이라고 밝힌 시점은 언제인가?",
+    "answer": "2026년 9월 20일 현지시간이다."
+   },
+   {
+    "question": "트럼프 대통령이 이란에 대한 대응으로 제시한 선택지들은 무엇인가?",
+    "answer": "대규모 공격, 경제 압박, 합의이다."
+   },
+   {
+    "question": "트럼프 대통령이 만날 가능성을 열어둔 이란 대통령의 이름은 무엇인가?",
+    "answer": "마수드 페제시키안이다."
+   },
+   {
+    "question": "최근 예멘 후티 반군이 공격한 대상은 무엇인가?",
+    "answer": "사우디 국영 석유기업 아람코의 연료탱크이다."
+   },
+   {
+    "question": "후티 반군의 공격으로 사우디 수도 리야드에 어떤 일이 있었는가?",
+    "answer": "처음으로 공습경보가 발령됐다."
+   }
+  ],
+  "entities": [
+   {
+    "name": "도널드 트럼프",
+    "detail": "미국 대통령",
+    "source_id": "1"
+   },
+   {
+    "name": "마수드 페제시키안",
+    "detail": "이란 대통령",
+    "source_id": "2"
+   },
+   {
+    "name": "폭스 뉴스",
+    "detail": "트럼프 대통령과 통화한 언론사",
+    "source_id": "1"
+   },
+   {
+    "name": "후티 반군",
+    "detail": "이란의 지원을 받는 예멘 반군",
+    "source_id": "3"
+   },
+   {
+    "name": "사우디아라비아",
+    "detail": "후티 반군의 공격을 받은 국가",
+    "source_id": "3"
+   },
+   {
+    "name": "아람코",
+    "detail": "사우디 국영 석유기업",
+    "source_id": "8"
+   },
+   {
+    "name": "킹 칼리드 공항",
+    "detail": "후티 반군 공격으로 항공편이 결항/지연된 공항",
+    "source_id": "8"
+   },
+   {
+    "name": "리야드",
+    "detail": "사우디 수도, 공습경보가 발령된 곳",
+    "source_id": "8"
+   }
+  ],
+  "background": [
+   {
+    "text": "단순히 미국의 대이란 해상 봉쇄 문제만 있는 것이 아니라, 후티가 어제(19일) 사우디아라비아를 공격하는 등 중동 지역의 긴장이 고조되고 있다.",
+    "source_id": "3"
+   }
+  ],
+  "timeline": [
+   {
+    "date": "2026-09-19",
+    "event": "후티 반군이 사우디아라비아를 공격했다.",
+    "source_id": "3"
+   },
+   {
+    "date": "2026-09-20",
+    "event": "도널드 트럼프 미국 대통령이 이란에 대한 대응을 결정 중이라고 밝혔다.",
+    "source_id": "1"
+   },
+   {
+    "date": "2026-09-20",
+    "event": "트럼프 대통령이 폭스 뉴스와 통화했다.",
+    "source_id": "1"
+   },
+   {
+    "date": "지난 주말",
+    "event": "친이란 예멘 후티 반군이 사우디 국영 석유기업 아람코의 연료탱크를 타격했다.",
+    "source_id": "8"
+   }
+  ],
+  "has_controversy": true
+ },
+ "richness": {
+  "level": "VERY_HIGH",
+  "min_chars": 1700,
+  "max_chars": 2300,
+  "score": 84.1,
+  "independent_source_count": 8,
+  "information_unit_count": 34,
+  "facts_count": 9,
+  "statements_count": 7,
+  "entity_count": 8,
+  "background_count": 1,
+  "timeline_count": 4,
+  "qa_count": 5,
+  "avg_fact_importance": 82.8,
+  "unique_claim_count": 16,
+  "has_background": true
+ },
+ "before": {
+  "title": "트럼프 대통령, '대이란 대응 결정 중' 선언…중동 긴장 속 정상회담 가능성 주목",
+  "summary": [
+   "도널드 트럼프 미국 대통령이 이란에 대한 대응을 결정 중이라고 밝히며 '곧 큰 일'이 있을 것이라 언급했습니다.",
+   "친이란 후티 반군의 사우디 공격으로 중동 긴장이 고조된 상황에서 트럼프의 발언과 이란 대통령과의 회담 가능성이 주목받고 있습니다.",
+   "군사 공격, 경제 압박, 합의 등 모든 선택지를 고려하는 가운데 미-이란 관계의 향방에 대한 불확실성이 커지고 있습니다."
+  ],
+  "content": "<div style=\"background:#f0f7ff;border-left:4px solid #1a73e8;padding:16px 20px;border-radius:8px;margin:16px 0;box-sizing:border-box;word-break:keep-all;overflow-wrap:break-word;\"><p style=\"font-weight:700;margin:0 0 8px;font-size:15px;color:#1e40af;\">📌 3줄 요약</p><ul style=\"margin:0;padding-left:20px;line-height:2.0;color:#1f2937;font-size:14px;\"><li>도널드 트럼프 미국 대통령이 이란에 대한 대응을 결정 중이라고 밝히며 '곧 큰 일'이 있을 것이라 언급했습니다.</li><li>친이란 후티 반군의 사우디 공격으로 중동 긴장이 고조된 상황에서 트럼프의 발언과 이란 대통령과의 회담 가능성이 주목받고 있습니다.</li><li>군사 공격, 경제 압박, 합의 등 모든 선택지를 고려하는 가운데 미-이란 관계의 향방에 대한 불확실성이 커지고 있습니다.</li></ul></div><h2 style=\"border-left:4px solid #1a73e8;padding-left:14px;color:#1e3a5f;font-size:18px;font-weight:700;margin:24px 0 10px;\">트럼프 대통령, '결정 모드' 선언하며 대이란 대응 예고</h2><p>도널드 트럼프 미국 대통령이 이란에 대한 대응 방안을 결정하는 단계에 있다고 밝혔습니다. 현지시간으로 2026년 9월 20일, 트럼프 대통령은 <mark>폭스 뉴스와의 통화</mark>에서 자신이 <mark>'결정 모드'</mark>에 있으며, \"아주 큰 일이 머지않은 미래에 일어날 것\"이라고 말했습니다.</p><p>트럼프 대통령은 이란을 쓸어버리는 것, 경제적으로 고사시키는 것, 그리고 합의에 이르는 것을 가능한 선택지로 제시하며 이란이 <mark>\"처신을 잘해야 할 것\"</mark>이라고 덧붙였다고 <mark>트레이 잉스트 기자는 보도</mark>했습니다. 이는 대규모 군사 공격부터 강력한 경제 압박, 그리고 외교적 합의까지 모든 가능성을 열어둔 것으로 풀이됩니다.</p><p>동시에 트럼프 대통령은 마수드 페제시키안 이란 대통령과 <mark>예정된 유엔총회에서 만나는 데도 열려있다는 입장</mark>을 보였습니다. 이는 강경한 대응과 함께 외교적 해법의 가능성도 배제하지 않는 복합적인 메시지로 해석됩니다.</p><h2 style=\"border-left:4px solid #1a73e8;padding-left:14px;color:#1e3a5f;font-size:18px;font-weight:700;margin:24px 0 10px;\">중동 지역 긴장 고조와 후티 반군의 사우디 공격</h2><p>트럼프 대통령의 이러한 발언은 중동 지역의 긴장이 고조되는 가운데 나왔습니다. 특히, 이란의 지원을 받는 예멘 <mark>후티 반군이 지난 주말 사우디아라비아를 공격</mark>하며 상황의 심각성을 더했습니다. 지난 9월 19일, 후티 반군은 사우디 국영 석유기업 <mark>아람코의 연료탱크를 타격</mark>했으며, 이로 인해 인근 킹 칼리드 공항의 항공편들이 결항되거나 장시간 지연되는 사태가 발생했습니다.</p><p>후티 반군 대변인 야히야 사리는 이번 공격 사실을 직접 밝혔으며, 사우디 수도 리야드에는 이번 공격으로 인해 <mark>처음으로 공습경보가 발령</mark>되기도 했습니다. 이러한 상황은 단순히 미국의 대이란 해상 봉쇄 문제뿐만 아니라, 지역 내 무력 충돌이 격화하고 있음을 보여주며 중동 정세의 불안정성을 키우고 있습니다.</p><h2 style=\"border-left:4px solid #1a73e8;padding-left:14px;color:#1e3a5f;font-size:18px;font-weight:700;margin:24px 0 10px;\">왜 지금 다시 화제가 됐나</h2><p>도널드 트럼프 미국 대통령이 이란에 대한 대응을 결정 중이며 <mark>'곧 큰 일'이 일어날 것</mark>이라고 언급한 동시에, 이란 대통령과의 정상회담 가능성까지 열어두면서 미-이란 관계의 향방에 대한 관심이 집중되고 있습니다. 또한, 친이란 예멘 후티 반군이 지난 9월 19일 사우디아라비아를 공격하며 중동 지역의 긴장이 고조된 상황도 트럼프 대통령의 발언에 대한 주목도를 더욱 높이고 있습니다.</p><div style=\"background:#f9fafb;border:1px dashed #d1d5db;padding:14px 18px;border-radius:8px;margin:16px 0;box-sizing:border-box;word-break:keep-all;overflow-wrap:break-word;\"><p style=\"font-weight:700;margin:0 0 8px;font-size:14px;color:#6b7280;\">❓ 아직 확인되지 않은 부분</p><ul style=\"margin:0;padding-left:20px;line-height:2.0;color:#4b5563;font-size:14px;\"><li>트럼프 대통령이 언급한 '아주 큰 일'이 구체적으로 무엇을 의미하는가?</li><li>미국과 이란 정상회담이 실제로 성사될 것인가?</li></ul></div><div style=\"background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;padding:18px 20px;margin:20px 0;box-sizing:border-box;word-break:keep-all;overflow-wrap:break-word;\"><p style=\"font-weight:700;margin:0 0 14px;font-size:15px;color:#1f2937;\">🙋 자주 묻는 질문</p><div style=\"margin-bottom:12px;\"><p style=\"font-weight:700;font-size:14px;color:#1a73e8;margin:0 0 4px;\">Q. 트럼프 대통령이 이란에 대한 대응을 결정 중이라고 밝힌 시점은 언제인가?</p><p style=\"font-size:14px;color:#374151;margin:0;line-height:1.8;\">A. 2026년 9월 20일 현지시간이다.</p></div><div style=\"margin-bottom:12px;\"><p style=\"font-weight:700;font-size:14px;color:#1a73e8;margin:0 0 4px;\">Q. 트럼프 대통령이 이란에 대한 대응으로 제시한 선택지들은 무엇인가?</p><p style=\"font-size:14px;color:#374151;margin:0;line-height:1.8;\">A. 대규모 공격, 경제 압박, 합의이다.</p></div><div style=\"margin-bottom:12px;\"><p style=\"font-weight:700;font-size:14px;color:#1a73e8;margin:0 0 4px;\">Q. 트럼프 대통령이 만날 가능성을 열어둔 이란 대통령의 이름은 무엇인가?</p><p style=\"font-size:14px;color:#374151;margin:0;line-height:1.8;\">A. 마수드 페제시키안이다.</p></div><div style=\"margin-bottom:12px;\"><p style=\"font-weight:700;font-size:14px;color:#1a73e8;margin:0 0 4px;\">Q. 최근 예멘 후티 반군이 공격한 대상은 무엇인가?</p><p style=\"font-size:14px;color:#374151;margin:0;line-height:1.8;\">A. 사우디 국영 석유기업 아람코의 연료탱크이다.</p></div><div style=\"margin-bottom:0px;\"><p style=\"font-weight:700;font-size:14px;color:#1a73e8;margin:0 0 4px;\">Q. 후티 반군의 공격으로 사우디 수도 리야드에 어떤 일이 있었는가?</p><p style=\"font-size:14px;color:#374151;margin:0;line-height:1.8;\">A. 처음으로 공습경보가 발령됐다.</p></div></div><div style=\"background:#1e3a8a;color:white;padding:16px 20px;border-radius:10px;margin:20px 0;text-align:center;box-sizing:border-box;word-break:keep-all;overflow-wrap:break-word;\"><p style=\"margin:0 0 4px;font-size:13px;color:#bfdbfe;\">📝 한 줄 정리</p><p style=\"margin:0;font-size:15px;font-weight:700;line-height:1.7;\">트럼프 대통령의 대이란 '결정 모드' 선언과 이란 대통령과의 회담 가능성, 그리고 중동 지역의 고조된 긴장이 복잡하게 얽히며 국제 정세의 중요한 전환점이 될지 주목됩니다.</p></div>"
+ },
+ "after": {
+  "title": "트럼프 대통령, '대이란 결단' 예고하며 정상회담 가능성도 열어",
+  "summary": [
+   "도널드 트럼프 미국 대통령이 이란에 대한 대응 방안을 결정 중이라고 밝혔습니다.",
+   "트럼프 대통령은 대규모 공격, 경제 압박, 합의 등 모든 선택지를 고려하면서도 이란 대통령과의 회담 가능성도 열어두었습니다.",
+   "이는 최근 친이란 후티 반군의 사우디 공격으로 중동 긴장이 고조된 가운데 나온 발언입니다."
+  ],
+  "content": "<div style=\"background:#f0f7ff;border-left:4px solid #1a73e8;padding:16px 20px;border-radius:8px;margin:16px 0;box-sizing:border-box;word-break:keep-all;overflow-wrap:break-word;\"><p style=\"font-weight:700;margin:0 0 8px;font-size:15px;color:#1e40af;\">📌 3줄 요약</p><ul style=\"margin:0;padding-left:20px;line-height:2.0;color:#1f2937;font-size:14px;\"><li>도널드 트럼프 미국 대통령이 이란에 대한 대응 방안을 결정 중이라고 밝혔습니다.</li><li>트럼프 대통령은 대규모 공격, 경제 압박, 합의 등 모든 선택지를 고려하면서도 이란 대통령과의 회담 가능성도 열어두었습니다.</li><li>이는 최근 친이란 후티 반군의 사우디 공격으로 중동 긴장이 고조된 가운데 나온 발언입니다.</li></ul></div><h2 style=\"border-left:4px solid #1a73e8;padding-left:14px;color:#1e3a5f;font-size:18px;font-weight:700;margin:24px 0 10px;\">트럼프 대통령, '결정 모드' 돌입 선언</h2><p>도널드 트럼프 미국 대통령이 이란에 대한 대응을 결정하는 단계에 있다고 밝혔습니다. 현지 시간 9월 20일, 폭스 뉴스와의 통화에서 트럼프 대통령은 자신이 <mark>&#39;결정 모드&#39;</mark>에 있으며, <mark>&#39;아주 큰 일&#39;</mark>이 머지않은 미래에 일어날 것이라고 언급했습니다.</p><p>트럼프 대통령의 이번 발언은 이란과의 관계에서 중대한 전환점이 될 수 있는 가능성을 시사하고 있습니다.</p><h2 style=\"border-left:4px solid #1a73e8;padding-left:14px;color:#1e3a5f;font-size:18px;font-weight:700;margin:24px 0 10px;\">세 가지 선택지: 군사 공격, 경제 압박, 그리고 합의</h2><p>트럼프 대통령은 이란에 대한 대응 방안으로 여러 선택지를 제시했습니다. 트레이 잉스트 기자에 따르면, 트럼프 대통령은 이란을 <mark>쓸어버리는 것</mark>, 경제적으로 <mark>고사시키는 것</mark>, 그리고 <mark>합의에 이르는 것</mark>을 가능한 선택지로 언급했습니다. 이는 대규모 군사 공격부터 강력한 경제 제재, 나아가 외교적 해결까지 모든 가능성을 열어두고 있음을 보여줍니다.</p><p>트럼프 대통령은 이란이 &#39;처신을 잘해야 할 것&#39;이라고 덧붙이며, 이란의 향후 행동에 따라 미국의 대응이 달라질 수 있음을 경고했습니다.</p><h2 style=\"border-left:4px solid #1a73e8;padding-left:14px;color:#1e3a5f;font-size:18px;font-weight:700;margin:24px 0 10px;\">유엔총회 계기 이란 대통령과의 회담 가능성</h2><p>군사적 및 경제적 압박 옵션과 함께, 트럼프 대통령은 마수드 페제시키안 이란 대통령과 유엔총회에서 만나는 데에도 열려있다는 입장을 보였습니다. 이는 강경한 발언 속에서도 외교적 대화의 여지를 남겨두어, 향후 미국과 이란 관계의 불확실성을 더하고 있습니다.</p><p>정상회담 가능성 언급은 일촉즉발의 상황 속에서 외교적 해법을 모색할 여지가 있음을 시사하며 국제사회의 주목을 받고 있습니다.</p><h2 style=\"border-left:4px solid #1a73e8;padding-left:14px;color:#1e3a5f;font-size:18px;font-weight:700;margin:24px 0 10px;\">중동 긴장 고조: 후티 반군의 사우디 공격</h2><p>트럼프 대통령의 대이란 발언은 중동 지역의 긴장이 고조되는 상황에서 나왔습니다. 지난 주말, 친이란 예멘 후티 반군이 사우디 국영 석유기업 아람코의 연료탱크를 타격하는 사건이 발생했습니다. 후티 반군 대변인 야히야 사리는 이 공격 사실을 밝혔습니다.</p><p>이 공격으로 사우디 인근 킹 칼리드 공항의 항공편들이 결항되거나 장시간 지연되었으며, 사우디 수도 리야드에도 처음으로 공습경보가 발령되는 등 혼란이 속출했습니다. 이는 단순히 미국의 대이란 해상 봉쇄 문제뿐만 아니라, 후티 반군의 사우디 공격으로 중동 지역의 무력 충돌이 격화되고 있음을 보여줍니다.</p><div style=\"background:#f9fafb;border:1px dashed #d1d5db;padding:14px 18px;border-radius:8px;margin:16px 0;box-sizing:border-box;word-break:keep-all;overflow-wrap:break-word;\"><p style=\"font-weight:700;margin:0 0 8px;font-size:14px;color:#6b7280;\">❓ 아직 확인되지 않은 부분</p><ul style=\"margin:0;padding-left:20px;line-height:2.0;color:#4b5563;font-size:14px;\"><li>트럼프 대통령이 언급한 &#39;아주 큰 일&#39;이 구체적으로 무엇을 의미하는가?</li><li>미국과 이란 정상회담이 실제로 성사될 것인가?</li></ul></div>"
+ }
+}

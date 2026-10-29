@@ -1,0 +1,39 @@
+# secrets
+.claude/
+.secrets/
+.env
+.env.*
+!.env.example
+api긴급복구파일/
+api_emergency_backup/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# logs
+*.log
+*.log.*
+
+# databases
+*.db
+
+# test/runtime artifacts
+.pytest_cache/
+drafts/
+*.png
+*.html
+result.json
+raw.txt
+startup_err.txt
+*_check.txt
+test_cells.txt
+daejeon_test.txt
+names2.txt
+gocheok2.txt
+questions.md
+test_replay.py
+
+# misc stray files
+=*

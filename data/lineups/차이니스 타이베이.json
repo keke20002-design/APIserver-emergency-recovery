@@ -1,0 +1,78 @@
+{
+  "team": "차이니스 타이베이",
+  "date": "2026-09-21",
+  "batters": [
+    {
+      "order": 1,
+      "name": "천천웨이",
+      "position": "중",
+      "season_avg": "0.250",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 2,
+      "name": "양쩐위",
+      "position": "좌",
+      "season_avg": "0.000",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 3,
+      "name": "황웨이셩",
+      "position": "一",
+      "season_avg": "0.250",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 4,
+      "name": "류지홍",
+      "position": "三",
+      "season_avg": "0.000",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 5,
+      "name": "주쟈언",
+      "position": "우",
+      "season_avg": "0.000",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 6,
+      "name": "천민츠",
+      "position": "지",
+      "season_avg": "0.000",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 7,
+      "name": "가오위웨이",
+      "position": "二",
+      "season_avg": "0.000",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 8,
+      "name": "차이웨타이",
+      "position": "포",
+      "season_avg": "0.000",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 9,
+      "name": "양보샹",
+      "position": "유",
+      "season_avg": "0.000",
+      "season_hr": null,
+      "season_rbi": null
+    }
+  ]
+}

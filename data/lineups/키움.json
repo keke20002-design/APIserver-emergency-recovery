@@ -1,0 +1,78 @@
+{
+  "team": "키움",
+  "date": "2026-10-07",
+  "batters": [
+    {
+      "order": 1,
+      "name": "추재현",
+      "position": "중",
+      "season_avg": "0.283",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 2,
+      "name": "데이비슨",
+      "position": "一",
+      "season_avg": "0.297",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 3,
+      "name": "히우라",
+      "position": "좌",
+      "season_avg": "0.272",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 4,
+      "name": "김웅빈",
+      "position": "지",
+      "season_avg": "0.253",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 5,
+      "name": "김건희",
+      "position": "포",
+      "season_avg": "0.268",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 6,
+      "name": "박찬혁",
+      "position": "우",
+      "season_avg": "0.237",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 7,
+      "name": "여동욱",
+      "position": "三",
+      "season_avg": "0.176",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 8,
+      "name": "염승원",
+      "position": "二",
+      "season_avg": "0.267",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 9,
+      "name": "권혁빈",
+      "position": "유",
+      "season_avg": "0.226",
+      "season_hr": null,
+      "season_rbi": null
+    }
+  ]
+}

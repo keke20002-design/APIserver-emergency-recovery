@@ -1,0 +1,78 @@
+{
+  "team": "삼성",
+  "date": "2026-10-12",
+  "batters": [
+    {
+      "order": 1,
+      "name": "김지찬",
+      "position": "지",
+      "season_avg": "0.315",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 2,
+      "name": "김성윤",
+      "position": "중",
+      "season_avg": "0.300",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 3,
+      "name": "류지혁",
+      "position": "二",
+      "season_avg": "0.280",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 4,
+      "name": "최형우",
+      "position": "좌",
+      "season_avg": "0.301",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 5,
+      "name": "전병우",
+      "position": "一",
+      "season_avg": "0.238",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 6,
+      "name": "김헌곤",
+      "position": "우",
+      "season_avg": "0.294",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 7,
+      "name": "강민호",
+      "position": "포",
+      "season_avg": "0.267",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 8,
+      "name": "김영웅",
+      "position": "三",
+      "season_avg": "0.167",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 9,
+      "name": "이재현",
+      "position": "유",
+      "season_avg": "0.222",
+      "season_hr": null,
+      "season_rbi": null
+    }
+  ]
+}

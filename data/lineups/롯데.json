@@ -1,0 +1,78 @@
+{
+  "team": "롯데",
+  "date": "2026-10-12",
+  "batters": [
+    {
+      "order": 1,
+      "name": "레이예스",
+      "position": "지",
+      "season_avg": "0.363",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 2,
+      "name": "나승엽",
+      "position": "一",
+      "season_avg": "0.287",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 3,
+      "name": "고승민",
+      "position": "二",
+      "season_avg": "0.288",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 4,
+      "name": "한동희",
+      "position": "三",
+      "season_avg": "0.306",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 5,
+      "name": "전민재",
+      "position": "유",
+      "season_avg": "0.278",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 6,
+      "name": "손성빈",
+      "position": "포",
+      "season_avg": "0.267",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 7,
+      "name": "전준우",
+      "position": "좌",
+      "season_avg": "0.221",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 8,
+      "name": "장두성",
+      "position": "우",
+      "season_avg": "0.285",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 9,
+      "name": "황성빈",
+      "position": "중",
+      "season_avg": "0.289",
+      "season_hr": null,
+      "season_rbi": null
+    }
+  ]
+}

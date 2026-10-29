@@ -1,0 +1,78 @@
+{
+  "team": "LG",
+  "date": "2026-10-20",
+  "batters": [
+    {
+      "order": 1,
+      "name": "박해민",
+      "position": "중",
+      "season_avg": "0.500",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 2,
+      "name": "오지환",
+      "position": "유",
+      "season_avg": "0.100",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 3,
+      "name": "오스틴",
+      "position": "지",
+      "season_avg": "0.133",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 4,
+      "name": "송찬의",
+      "position": "좌",
+      "season_avg": "0.250",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 5,
+      "name": "문보경",
+      "position": "三",
+      "season_avg": "0.167",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 6,
+      "name": "문정빈",
+      "position": "一",
+      "season_avg": "0.200",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 7,
+      "name": "문성주",
+      "position": "우",
+      "season_avg": "0.000",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 8,
+      "name": "박동원",
+      "position": "포",
+      "season_avg": "0.231",
+      "season_hr": null,
+      "season_rbi": null
+    },
+    {
+      "order": 9,
+      "name": "구본혁",
+      "position": "二",
+      "season_avg": "0.357",
+      "season_hr": null,
+      "season_rbi": null
+    }
+  ]
+}
